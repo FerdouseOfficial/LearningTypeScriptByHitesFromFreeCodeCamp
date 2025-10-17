@@ -1,0 +1,7 @@
+The only one job typescript got for you is Static Checking.
+
+what typescript does: "Static Checking"
+
+TypeScript is just for Static Checking. Its just anylyzing you code and help you to understand that you might be running into a potential error without even running the code and getting the error in running time itself
+
+                    Analyze the code as we type. Tht's it.
