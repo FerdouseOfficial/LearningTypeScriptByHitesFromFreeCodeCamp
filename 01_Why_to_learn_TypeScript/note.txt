@@ -1,0 +1,7 @@
+Its just allows you to write JS in a much Precise manner SO that your code face a lot less error on the run time..
+
+TypeScript is not about reinventing Javascript.
+
+Just, writing JS witth a little bit accurate behaviour
+
+All about Type Safety.. Nothing Else...
