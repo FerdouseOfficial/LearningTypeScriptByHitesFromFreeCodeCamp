@@ -5,3 +5,18 @@ what typescript does: "Static Checking"
 TypeScript is just for Static Checking. Its just anylyzing you code and help you to understand that you might be running into a potential error without even running the code and getting the error in running time itself
 
                     Analyze the code as we type. Tht's it.
+
+How it works:::
+
+you will create a ts file and the code you will write will be converted/compile/tranpiled into js thats it .
+
+/// give ctrl+I and tell copilot to write more about it
+
+
+            Always Remember
+
+TS it's a development tool. Your projects still runs JS.Its still pure 100% Js code .
+
+So typescript is just layer on top of js. Just to provide the typesafety.(Its a superset of JS)
+
+Also you can tell it a development tool. Thats helps you to write better code with less problem with a more scaleable and maintainable code that is easily understandable. And the chances of producing error is much more less. its just a wrapper around the js. (its not a whole new language)
