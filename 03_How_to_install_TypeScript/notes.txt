@@ -15,3 +15,4 @@ are the 2 different inatallation of project.
 
 
 Also if you wanna learn more about the TS config file in there website they have the TS config tab. Where have all the resources.
+ 
