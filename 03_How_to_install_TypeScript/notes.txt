@@ -1,3 +1,14 @@
 its a great a way of learning with pen/pencil with paper. 
 
 but hitesh is a farm believer of doing code. explain it . show the result is a effective way too.
+
+there are couple of ways to set up typescipt
+
+1. Now the way we are going to start with TS
+2. And the way how we use it in the project
+
+are the 2 different inatallation of project.
+
+1st one is global its a effective way to learn the concept of TS
+
+2nd we will move on project and edit config and bla bla
