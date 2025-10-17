@@ -12,3 +12,6 @@ are the 2 different inatallation of project.
 1st one is global its a effective way to learn the concept of TS
 
 2nd we will move on project and edit config and bla bla
+
+
+Also if you wanna learn more about the TS config file in there website they have the TS config tab. Where have all the resources.
