@@ -1,1 +1,26 @@
-The ultimate knowledge is how to read the documentation
+The ultimate knowledge is how to read the documentation. by this skill you can learn things on your own.
+
+again I am saying it  again because its important, " You have to must have to read documentation"... That's the mindset of real programmer
+
+// TypeScript Types:-
+
+Number string Boolean
+Null  undefined  Void
+Object Array Tuples and etc....
+Any Never unknown
+
+
+before moving out to the concept and the practice: you have to know about "Situation"
+
+Situations:
+
+1. A function accepts 2 Numbers
+2. A function returns a string
+
+
+then the Second thing is "Syntax"
+
+
+Syntax : all in lowercase
+
+let variableName: type = value
