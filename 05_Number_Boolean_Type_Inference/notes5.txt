@@ -1,1 +1,3 @@
 All the best practice to write TS..
+
+Always remember in order to wrie better code it not just Always follow the colon to declare.This is not how typescrip works.
