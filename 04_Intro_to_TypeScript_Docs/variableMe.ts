@@ -5,4 +5,4 @@ let mynum = 6;
 
 // greetings.toLowerCase()
 
-export{}
+export{} 
