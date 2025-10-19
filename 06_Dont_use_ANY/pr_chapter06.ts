@@ -1,6 +1,8 @@
 let hero;
-function getHero(){
-    return "thor"
+function getHero() {
+  return "thor";
 }
 
-hero = getHero()
+hero = getHero();
+
+export {};
