@@ -1,1 +1,3 @@
-Always try avoid using the any type in TS okay. That's a good way.(hitesh)
+Always try avoid using the any type in TS okay. That's a good way.(hitesh). 
+
+its is not a right way....
