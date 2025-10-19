@@ -1,0 +1,1 @@
+Always try avoid using the any type in TS okay. That's a good way.(hitesh)
