@@ -6,7 +6,15 @@ function getUpper(val: string) {
   return val.toUpperCase();
 }
 
+function signUpUser(name, email, password) {
+
+}
+
 addTwo(5);
 getUpper("Mahin");
 
+
+signUpUser(1,2,3)
+
 export {};
+
