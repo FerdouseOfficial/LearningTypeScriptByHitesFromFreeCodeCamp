@@ -1,7 +1,12 @@
-function addTwo(num: number){
-
-    num.
-    return num + 2;
+function addTwo(num: number) {
+  return num + 2;
 }
 
-addTwo(5)
+function getUpper(val: string) {
+  return val.toUpperCase();
+}
+
+addTwo(5);
+getUpper("Mahin");
+
+export {};
