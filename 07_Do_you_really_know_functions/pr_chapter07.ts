@@ -6,16 +6,18 @@ function getUpper(val: string) {
   return val.toUpperCase();
 }
 
-function signUpUser(name, email, isPaid) {
-    console.log(`User name is ${name}. User email is ${email}. User have ${isPaid} the subscription`)
+function signUpUser(name: string, email: string, isPaid: true) {
+  console.log(
+    `User name is ${name}. User email is ${email}. User have ${isPaid} the subscription`
+  );
 }
+
+let logInUser = (user, password) => {
+  console.log(`Username : ${user}, Password: ${password}`);
+};
 
 addTwo(5);
 getUpper("Mahin");
-signUpUser("Mahin","asdlfjksdf234@gmail.com","paid")
 
-
-signUpUser(1,2,3)
-
-export {};
-
+signUpUser("mahin", "rohitsharmafuchka", true);
+logInUser("Romio23", "234******asdfkj2");
