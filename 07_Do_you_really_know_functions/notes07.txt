@@ -2,3 +2,7 @@ ther ewill be 2 vidoes about function here..
 
 write what have Your learned from thtis lesson
 
+In this whole lesson hitesh:- explain how to write the function in TS.
+
+type inference, type annotation is a very important things in function paramerter.
+
