@@ -6,3 +6,4 @@ In this whole lesson hitesh:- explain how to write the function in TS.
 
 type inference, type annotation is a very important things in function paramerter.
 
+its has also a second and part a better way to......... . Go check it out. Practice along with it. Go ahead.
