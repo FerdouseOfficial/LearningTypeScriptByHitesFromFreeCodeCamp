@@ -35,6 +35,7 @@
 
 
 // ------------------------- 02 ------------------------
+// YOU must hvae to rerturn someting otherwise it will show and error
 
 // const getHello = (s: string): string => {
 //   return "";
@@ -42,7 +43,8 @@
 
 
 //    --------------------- 03 ------------------
-
+    // its by default I mean auto detect the output type .
 const heros = ["thor", "spiderman", "ironman"];
+// const heros = [1, 2, 3];
 
 
