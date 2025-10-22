@@ -23,16 +23,15 @@
 // signUpUser("mahin", "rohitsharmafuchka", true);
 // logInUser("Romio23", "234******asdfkj2");
 
-                    // Edge Cases
+// Edge Cases
 
-                    // ------ 01 -------
+// ------ 01 -------
 // function getValue(myVal: number): boolean {
 //     if(myVal > 5) {
 //         return true;
 //     }
 //     return "200 ok"
 // }
-
 
 // ------------------------- 02 ------------------------
 // YOU must hvae to rerturn someting otherwise it will show and error
@@ -41,10 +40,33 @@
 //   return "";
 // };
 
-
 //    --------------------- 03 ------------------
-    // its by default I mean auto detect the output type .
+// its by default I mean auto detect the output type .
 const heros = ["thor", "spiderman", "ironman"];
 // const heros = [1, 2, 3];
+heros.map((heros): string => {
+  return "";
+  // console.log();
+});
 
+// -------------- one more imporatnt thing is ------------------------
 
+// when you already declare that the functin will return a void then the error showing that their is not return or such error like that will not show
+
+// here is the example:---------
+
+function consoleErr(errMsg: string): void {
+  console.log(errMsg);
+  // return 1; // now it will show a error
+}
+
+// function handError(errMsg: string): void {
+//   console.log(errMsg);
+
+// }
+
+// You can also do it with never
+
+function handError(errMsg: string): never {
+  throw new Error(msg);
+}
