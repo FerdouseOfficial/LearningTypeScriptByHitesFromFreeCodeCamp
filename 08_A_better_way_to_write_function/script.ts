@@ -68,5 +68,5 @@ function consoleErr(errMsg: string): void {
 // You can also do it with never
 
 function handError(errMsg: string): never {
-  throw new Error(msg);
+  throw new Error(errMsg);
 }
