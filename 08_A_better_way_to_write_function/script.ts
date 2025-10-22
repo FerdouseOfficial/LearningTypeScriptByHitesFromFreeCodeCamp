@@ -23,4 +23,21 @@
 // signUpUser("mahin", "rohitsharmafuchka", true);
 // logInUser("Romio23", "234******asdfkj2");
 
-// 
+                    // Edge Cases
+
+                    // ------ 01 -------
+// function getValue(myVal: number): boolean {
+//     if(myVal > 5) {
+//         return true;
+//     }
+//     return "200 ok"
+// }
+
+
+// ------------------------- 02 ------------------------
+
+// const getHello = (s: string): string => {
+//   return "";
+// };
+
+
