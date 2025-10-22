@@ -13,7 +13,7 @@ function signUpUser(name: string, email: string, isPaid: true) {
   );
 }
 
-let logInUser = (user: string, password: number | string) => {
+let logInUser = (user: string, password: (number | string)) => {
   console.log(`Username : ${user}, Password: ${password}`);
 };
 
